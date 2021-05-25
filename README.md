@@ -1,2 +1,2 @@
-# go-nfo
-Golang library for reading and writing media library NFO files
+# go-jellyfin-nfo
+Golang library for reading and writing Jellyfin library NFO files
